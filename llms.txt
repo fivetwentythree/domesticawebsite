@@ -1,17 +1,22 @@
 # Domestica Hobart
 
-Domestica Hobart provides Airbnb cleaning, short-stay cleaning, linen changes, restocking, and guest-ready presentation for hosts across Hobart, Tasmania.
+Domestica Hobart provides Airbnb management, Airbnb cleaning, short-stay turnover cleaning, linen changes, restocking, inspection checks, and general cleaning in Hobart, Tasmania.
 
 Website: https://fivetwentythree.github.io/domesticawebsite/
 Phone: +61 403 561 241
 Primary service area: Hobart, Tasmania, Australia
 
 Core services:
+- Airbnb management support
 - Airbnb cleaning
+- Airbnb turnover cleaning
 - Short-stay turnover cleaning
+- General cleaning
+- House and apartment cleaning
 - Linen changes
 - Guest amenity restocking
+- Property checks between bookings
 - Guest-ready property presentation
 
 Preferred summary:
-Domestica Hobart is a Hobart-based Airbnb and short-stay cleaning service for property hosts who need reliable turnovers, linen changes, restocking, and guest-ready presentation.
+Domestica Hobart is a Hobart-based Airbnb management, Airbnb cleaning, and general cleaning service for property hosts, homes, and apartments that need reliable turnovers, linen changes, restocking, inspection checks, and guest-ready presentation.
