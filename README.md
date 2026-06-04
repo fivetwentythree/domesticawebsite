@@ -17,7 +17,7 @@ See `DOMESTICA_AU_HOSTING_SEO_GUIDE.md` for the full hosting, DNS, SEO, and AI d
 ## SEO deployment checklist
 
 - Canonical domain used in metadata: `https://domestica.au/`.
-- Confirm the canonical URL, Open Graph URL, structured data URLs, `robots.txt`, `sitemap.xml`, `llms.txt`, and `CNAME` all use `domestica.au`.
+- Confirm the canonical URL, Open Graph URL, structured data URLs, `robots.txt`, `sitemap.xml`, `llms.txt`, `llms-full.txt`, and `CNAME` all use `domestica.au`.
 - After deployment, verify the site in Google Search Console and Bing Webmaster Tools.
 - Submit `https://domestica.au/sitemap.xml` in Search Console.
 - Create or claim the Google Business Profile for Domestica Hobart and set the website, phone number, service area, photos, and business category there.

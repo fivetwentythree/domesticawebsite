@@ -140,7 +140,8 @@ AI visibility is not a separate ranking system you can directly control. The pra
 This repo now supports that by:
 
 - Serving `llms.txt` at the root.
-- Allowing `OAI-SearchBot` in `robots.txt`.
+- Serving `llms-full.txt` at the root.
+- Explicitly allowing Googlebot, Google-Extended, Bingbot, OAI-SearchBot, GPTBot, ChatGPT-User, ClaudeBot, Claude-SearchBot, Claude-User, PerplexityBot, and Perplexity-User in `robots.txt`.
 - Keeping the homepage indexable.
 - Using clear LocalBusiness and Service schema.
 - Keeping canonical, sitemap, Open Graph, and AI-facing summary URLs aligned to `https://domestica.au/`.
