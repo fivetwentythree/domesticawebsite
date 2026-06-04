@@ -1,4 +1,7 @@
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: *
 Allow: /
 
-Sitemap: https://fivetwentythree.github.io/domesticawebsite/sitemap.xml
+Sitemap: https://domestica.au/sitemap.xml
